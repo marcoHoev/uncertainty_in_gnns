@@ -1,1 +1,1 @@
-This repository only contains my seminar paper on "Uncertainty in Graph Neural Networks".
+# This repository only contains my seminar paper on "Uncertainty in Graph Neural Networks".
