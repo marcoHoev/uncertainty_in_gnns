@@ -1,1 +1,1 @@
-# uncertainty_in_gnns
+This repository only contains my seminar paper on "Uncertainty in Graph Neural Networks".
